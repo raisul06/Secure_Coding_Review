@@ -1,4 +1,4 @@
-# CodeAlpha_SecureCodingReview
+# Secure_Coding_Review
 
 Secure coding review of an intentionally vulnerable Flask application: static analysis with Bandit, manual audit, and a patched version.
 
